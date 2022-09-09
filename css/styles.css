@@ -46,8 +46,6 @@ ul {
 
 }
 
-
-
 body {
 	color: var(--primery-text-color);
 	background-color: var(--primery-bg-color);
@@ -123,7 +121,7 @@ body {
 .hero-section {
 	background-color: var(--hero-section-bg-color);
 	text-align: center;
-    padding: 200px 452px 0;
+    
    
 }
 .hero-title {
@@ -164,7 +162,7 @@ body {
 	background-color: var(--accent-color);
 	cursor: pointer;
 	padding: 10px 32px;
-    margin-bottom: 200px;
+   
    
 }
 .hero-button:hover,
